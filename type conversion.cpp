@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main() {
     float floatValue;
     cout << "Enter a float value: ";
