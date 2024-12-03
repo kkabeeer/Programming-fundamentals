@@ -1,5 +1,4 @@
 #include <iostream>
-
 int main() {
     int day;
     std::cout << "Enter a day number (1-7): ";

@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     const string password = "1234";
     string input;
