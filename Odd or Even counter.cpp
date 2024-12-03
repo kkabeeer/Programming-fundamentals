@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     int number, oddCount = 0, evenCount = 0;
 
