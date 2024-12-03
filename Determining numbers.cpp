@@ -1,16 +1,17 @@
 #include <iostream>
+using namespace std;
 int main() {
     double number;
 
-    std::cout << "Please enter a number: ";
-    std::cin >> number;
+   cout << "Please enter a number: ";
+   cin >> number;
 
     if (number > 0) {
-        std::cout << "The number is positive." << std::endl;
+        cout << "The number is positive." << std::endl;
     } else if (number < 0) {
-        std::cout << "The number is negative." << std::endl;
+        cout << "The number is negative." << std::endl;
     } else {
-        std::cout << "The number is zero." << std::endl;
+        :cout << "The number is zero." << std::endl;
     }
 
     return 0;
